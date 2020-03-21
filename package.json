@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/Dumenco/goit-js-hw-10-food-service/issues"
   },
-  "homepage": "https://github.com/Dumenco/goit-js-hw-10-food-service.git",
+  "homepage": "https://github.com/Dumenco/goit-js-hw-10-food-service#readme",
   "devDependencies": {
     "@babel/core": "^7.8.7",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
